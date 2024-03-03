@@ -12,7 +12,7 @@
 - Para la cracion del repositorio en GitHub el usuario debe
 tener un cuenta creada
 - Y generar su key SSH
-5. Para la creacion de códig se utilizo PyCharm community
+5. Para la creacion de código se utilizo PyCharm community
 6.  Se utilizo Git Bash para crear una ruta y generar commits
 y enviar el codigo.
 
